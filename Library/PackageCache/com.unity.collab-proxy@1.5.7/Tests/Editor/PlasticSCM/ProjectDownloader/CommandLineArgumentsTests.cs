@@ -192,8 +192,7 @@ namespace Unity.PlasticSCM.Tests.Editor.ProjectDownloader
             string cloudOrganizationKey = "- cloudOrganization";
             string cloudOrganizationValue = "D51E18A1-CA04-4E7C-A649-6FD2829E3223-danipen-unity";
 
-            string accessTokenKey = "-accessToken";
-            string accessTokenValue = "5k-CzPsncn9bGLI_uSZ91EhJW44Dcj1ShQPtKjCp2rA005f";
+         
 
             string[] args = new string[] {
                 @"C:\Program Files\Unity\Hub\Editor\2018.4.25f1\Editor\unity.exe",
